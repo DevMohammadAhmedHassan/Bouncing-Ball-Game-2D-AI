@@ -1,1 +1,1 @@
-This is Ball Bouncing Game and the logic of the build is made with the help of AI :)
+This is Ball Bouncing Game and the logic of the Game is build with the help of AI :)
